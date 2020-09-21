@@ -1,0 +1,7 @@
+git status
+git add index.html
+git commit -m "Update text content"
+
+git status
+git add css/style.css
+git commit -m "Add text shadows"
